@@ -1,2 +1,3 @@
 # hello-world
-CIT 281 repository 
+My name is Kathryn Holter and I am a CIT 281 Student!
+
